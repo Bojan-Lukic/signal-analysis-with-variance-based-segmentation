@@ -1,1 +1,1 @@
-# signal-segmentation-using-calculus-and-statistics
+# signal-segmentation-with-calculus-and-statistics
