@@ -1,1 +1,1 @@
-# signal-segmentation-with-calculus-and-statistics
+# signal-analysis-with-variance-based-segmentation
