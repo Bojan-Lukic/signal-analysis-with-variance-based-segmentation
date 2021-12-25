@@ -29,7 +29,7 @@
     <figcaption><sub>Icon made by <a href="https://www.flaticon.com/authors/vitaly-gorbachev">Vitaliy Gorbachev</a> from www.flaticon.com.</sub></figcaption>
   </figure>
 
-<h3 align="center">Topic Detection with Keyword Clustering</h3>
+<h3 align="center">Signal Analysis with Variance Based Segmentation</h3>
 
   <p align="center">
     project_description
