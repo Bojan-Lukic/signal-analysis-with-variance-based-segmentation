@@ -32,7 +32,7 @@
 <h3 align="center">Signal Analysis with Variance Based Segmentation</h3>
 
   <p align="center">
-    project_description
+    Analyzing signals from automotive software systems by dividing the signals into parts using variance based segmentation algorithms.
     <br />
     <a href="https://github.com/Bojan-Lukic/signal-analysis-with-variance-based-segmentation/doc"><strong>Explore the docs »</strong></a>
     <br />
@@ -55,9 +55,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <!-- <ul>
+      <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul> -->
+      </ul>
     </li>
     <!-- <li>
       <a href="#getting-started">Getting Started</a>
@@ -82,25 +82,22 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+In this project, segmentation algorithms for solving the subproblem of finding suitable segmentation indices by constant amount of segments in a multivariate time series are investigated. The algorithms are assessed for effectivity and efficiency by applying them to a data set taken out of a real system trace provided by our automotive partners.
 
 <br />
 
 
-<!--
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://www.python.org/)
+  * packages can be installed using the [requirements.txt](https://github.com/Bojan-Lukic/lstm-multivariate-time-series-prediction/blob/master/requirements.txt) file
+* [Jupyter Notebook](https://jupyter.org/)
+
+Optionally:
+
+* [MATLAB](https://www.mathworks.com/products/matlab.html)
 
 <br />
--->
 
 
 <!-- GETTING STARTED -->
@@ -142,9 +139,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To be updated.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the docs_
 
 <br />
 
@@ -207,9 +204,8 @@ Project Link: [https://github.com/Bojan-Lukic/signal-analysis-with-variance-base
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Audi
+* [Thorben Knust](https://www.xing.com/profile/Thorben_Knust4)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
