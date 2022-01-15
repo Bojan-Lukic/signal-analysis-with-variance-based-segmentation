@@ -34,10 +34,10 @@
   <p align="center">
     Analyzing signals from automotive software systems by dividing the signals into parts using variance based segmentation algorithms.
     <br />
-    <a href="https://github.com/Bojan-Lukic/signal-analysis-with-variance-based-segmentation/doc"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Bojan-Lukic/signal-analysis-with-variance-based-segmentation/tree/main/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bojan-Lukic/signal-analysis-with-variance-based-segmentation/src">View Demo</a>
+    <a href="https://github.com/Bojan-Lukic/signal-analysis-with-variance-based-segmentation/tree/main/src">View Demo</a>
     ·
     <a href="https://github.com/Bojan-Lukic/signal-analysis-with-variance-based-segmentation/issues">Report Bug</a>
     ·
